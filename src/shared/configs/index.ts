@@ -1,0 +1,1 @@
+export {AppRoutesEnum} from './navigation-config'

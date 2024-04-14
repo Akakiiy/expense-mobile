@@ -1,0 +1,1 @@
+export {ExpensesList} from './components/expenses-list/ui'
